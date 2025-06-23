@@ -12,7 +12,7 @@ zip server: [click here (zip)](https://www.mediafire.com/file/xxhvo4f9z9dovt4/bs
 
 based on [bsl-v41](https://github.com/LkPrtctrd/BSL-V41)
 
-# how to play bses40-v34
+# how to play bses40-v29
 
 1. idk (just kidding)
 2. open visual studio
