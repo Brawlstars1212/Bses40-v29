@@ -1,4 +1,4 @@
-# Bses40-v29 (not realesed yet)
+# Bses40-v29
 this is a v41 brawl stars server that as been edited to be like v29 that's why it is called bses which means brawl stars edited server
 
 apk: [click here(apk)](https://www.mediafire.com/file/4yedlafu4b75sfk/v29+bses_mod_mod.apk/file)
